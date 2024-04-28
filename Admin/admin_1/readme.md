@@ -1,2 +1,2 @@
 the ion-icon is not supportive by github html preview. icons are missing
-https://html-preview.github.io/https://www.youtube.com/watch?v=pubrK_AmqRg&t=272s](https://github.com/jerson1207/frontend/blob/main/Admin/admin_1/index.html
+[[https://html-preview.github.io/https://www.youtube.com/watch?v=pubrK_AmqRg&t=272s](https://github.com/jerson1207/frontend/blob/main/Admin/admin_1/index.html](https://html-preview.github.io/?url=https://raw.githubusercontent.com/jerson1207/frontend/main/Admin/admin_1/index.html#)](https://html-preview.github.io/?url=https://raw.githubusercontent.com/jerson1207/frontend/main/Admin/admin_1/index.html#)
